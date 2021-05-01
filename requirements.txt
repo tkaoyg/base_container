@@ -7,3 +7,4 @@ pylint
 django==3.0.2
 slackweb
 slackbot
+slacker

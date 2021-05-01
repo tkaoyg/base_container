@@ -9,4 +9,4 @@ services:
       dockerfile: Dockerfile
     volumes: 
       - .:/usr/base
-    # env_file: my_env_file.env
+    env_file: my_env_file.env
